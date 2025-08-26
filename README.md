@@ -4,7 +4,7 @@ A clean, fast portfolio website to showcase projects, skills, and experience.
 
 * **Live site:** [https://jenil.de](https://jenil.de)
 * **Author:** Jenil Paladiya
-* **Tech:** React (Vite) · Tailwind CSS · React Router · (optional) Framer Motion · (optional) react‑i18next
+* **Tech:** React (Vite) · Tailwind CSS · React Router · (optional) Framer Motion · (optional)
 
 > This README is a starter you can keep in your repo. Adjust any section to match your codebase.
 
@@ -78,3 +78,4 @@ MyResumeReact/
 
 * Website: [https://jenil.de](https://jenil.de)
 * LinkedIn: [https://www.linkedin.com/in/jenil-paladiya](https://www.linkedin.com/in/jenil-paladiya)
+
