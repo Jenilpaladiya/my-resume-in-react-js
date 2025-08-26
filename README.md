@@ -49,27 +49,28 @@ A clean, fast portfolio website to showcase projects, skills, and experience.
 
 ## 📂 Project Structure (suggested)
 
-```text
-root/
+MyResumeReact/
 ├─ public/
-│  ├─ screenshots/            # README images (optional)
 │  └─ favicon.ico
 ├─ src/
-│  ├─ assets/                 # static images, icons
-│  ├─ components/             # UI components (Navbar, Footer, Card, etc.)
-│  ├─ data/
-│  │  └─ projects.js          # list of projects (edit me!)
+│  ├─ assets/                 # optional icons/fonts/svg
+│  ├─ images/                 # screenshots, thumbnails, logos
+│  ├─ components/             # Navbar, Footer, ProjectCard, etc.
 │  ├─ pages/                  # Home, Projects, About, Contact
-│  ├─ styles/                 # extra CSS if needed
-│  ├─ App.jsx
-│  └─ main.jsx
-├─ index.html
-├─ package.json
-├─ tailwind.config.js
+│  ├─ hooks/                  # useTheme, useScroll, etc.
+│  ├─ Utils/                  # data + helpers (projects.js, api.js)
+│  ├─ App.js
+│  ├─ index.css               # imports Tailwind directives
+│  ├─ index.js
+│  ├─ reportWebVitals.js
+│  └─ setupTests.js
 ├─ postcss.config.js
+├─ tailwind.config.js
+├─ package.json
+├─ yarn.lock / package-lock.json
 └─ README.md
-```
 
+Tip: keep folder names consistent (prefer lowercase). You can rename Utils → utils later if you like; Tailwind content paths already include all src/** files.
 ---
 
 ## 🛠️ Setup & Development
@@ -307,5 +308,6 @@ MIT License © 2025 Jenil Paladiya
 
 > Found an issue or want me to list a new project? Open a PR or create an issue in the repo.
 ﻿# my-resume-in-react-js
+
 
 
