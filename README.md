@@ -35,14 +35,15 @@ A clean, fast portfolio website to showcase projects, skills, and experience.
 ---
 
 ## 📸 Screenshots
+![1](https://github.com/user-attachments/assets/a027f25d-2092-4e09-9988-5ac4eddc67ac)
+![6](https://github.com/user-attachments/assets/8b1d3282-a768-4530-abc8-f0f968bd1a49)
+![5](https://github.com/user-attachments/assets/e5c2d276-42b3-4f6d-911a-8d502238e0b1)
+![4](https://github.com/user-attachments/assets/5a69aa91-ff7d-4590-ab5d-6a98ee9708af)
+![3](https://github.com/user-attachments/assets/1e7c45fa-e84d-4af4-be01-a6a52ffaf163)
+![2](https://github.com/user-attachments/assets/5cd75c22-7e9a-419c-8e28-7a6009089b6c)
 
-Add screenshots to `public/` or `src/assets/` and reference them here.
 
-* **Home:** `![Home](./public/screenshots/home.png)`
-* **Projects:** `![Projects](./public/screenshots/projects.png)`
-* **Project detail (if any):** `![Project Detail](./public/screenshots/project-detail.png)`
 
-> Don’t have images yet? Create the `public/screenshots/` folder and drop PNGs there.
 
 ---
 
@@ -306,4 +307,5 @@ MIT License © 2025 Jenil Paladiya
 
 > Found an issue or want me to list a new project? Open a PR or create an issue in the repo.
 ﻿# my-resume-in-react-js
+
 
